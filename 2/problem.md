@@ -1,6 +1,6 @@
 # Vacation Planning
 
-You are planning a road trip and would like to figure out which contiguous days you can cover a target number of miles. Given a list of `miles` where `miles[i]` is the number of miles you can cover on the `ith` day and a `target` number of miles you are trying to reach, write a function that will return the minimum number of days you can drive while still covering the `target` number of miles.
+You are planning a road trip and would like to figure out which contiguous days you can cover a target number of miles. Given a list of `miles` where `miles[i]` is the number of miles you can cover on the `ith` day and a `target` number of miles you are trying to reach, write a function that will return the minimum number of days you can drive while still covering the `target` number of miles. If no such solution exists, return `0`.
 
 ## **Example 1:**
 ```
